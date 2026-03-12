@@ -1,0 +1,5 @@
+﻿class Monster
+{
+    public string Name { get; set; }
+    public int Hp { get; set; }
+}
